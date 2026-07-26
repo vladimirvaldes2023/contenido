@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+ <meta charset="UTF-8">
+ <title></title>
+ <!-- LAS INSTRUCCIONES DE APARIENCIA PARA FACEBOOK -->
+ <meta property="og:title" content="" />
+ <meta property="og:description" content="" />
+ <meta property="og:image" content="https://www.amazon.com/dp/B0BG6NFJZ9" />
+ <meta property="og:url" content="https://www.amazon.com/dp/B0BG6NFJZ9" />
+ <meta property="og:type" content="website" />
+</head>
+<body>
+ <!-- Envía de inmediato al usuario a tu página principal si hace clic -->
+ <script>
+ window.location.href = "https://vladimirvaldes2023.github.io/contenido/";
+ </script>
+</body>
+</html>
